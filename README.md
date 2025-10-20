@@ -2,7 +2,7 @@
 A GitHub Repository containing all final code for my bachelor's thesis 
 The repository is divided into the following folders: 
 
-## Raw Data 
+## Raw-Data 
 A folder containing raw data used for analysis 
 
 ### Audio Data
@@ -24,7 +24,7 @@ This script is created and updated throughout based on findings in another analy
 
 
 
-## Off-line-Behavior-Analysis
+## Behavior-Analysis
 
 ## USV Analysis 
 This contains a folder with the Detection Files created through DeepSqueak, and the code for creating them.
