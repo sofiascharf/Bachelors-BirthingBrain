@@ -14,7 +14,7 @@ A folder containing raw data used for analysis
 ### Fiber Photometry Data
 .??? files recorded with optic fibres, through DoricStudio
 
-# --------------------------------------------------------
+
 
 ## On-line-Detection-USV
 A script used for on-line detection parturient behavior through USV detections. 
@@ -22,7 +22,7 @@ The script runs infinitely ones you press start, and you have to manually start 
 The script will be divided into different sections for collecting, processing and predicting the data. 
 This script is created and updated throughout based on findings in another analysis section:
 
-# --------------------------------------------------------
+
 
 ## Off-line-Behavior-Analysis
 
@@ -39,11 +39,20 @@ One notebook for *Classification*: This is used to create the classifier used fo
 ## Video Analysis
 Annotated video files, perhaps notebook with analysis to support dissociation-hypothesis. 
 
-# --------------------------------------------------------
+
+
+
+
 
 ## Fiber-Photometry-Analysis
 
+
+
+
 ### Recording Analysis 
+
+
+
 
 ### Fiber-Position-Evaluation
 
